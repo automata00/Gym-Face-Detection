@@ -29,3 +29,5 @@ samples/
 
 # Secrets
 *.env
+logs/
+events.csv
