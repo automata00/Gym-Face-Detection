@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Data and models
+data/
+samples/
+*.npy
+*.pt
+*.onnx
+*.json
+
+# Logs
+*.log
+
+# Secrets
+*.env
